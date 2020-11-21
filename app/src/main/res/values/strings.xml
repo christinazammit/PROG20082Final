@@ -26,4 +26,6 @@
     <string name="hike">Hike</string>
     <string name="hiking">Hiking</string>
     <string name="swimming">Swimming</string>
+    <string name="welcome_to_soul_fitness">Welcome to Soul Fitness</string>
+    <string name="which_workout_would_you_like_to_add_today">Which workout would you like to add today?</string>
 </resources>
